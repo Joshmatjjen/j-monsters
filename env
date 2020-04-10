@@ -16,6 +16,6 @@ REACT_APP_LIMIT= "&&limit="
 
 
 
-
+mongodb+srv://dukstack:hHbAquNjSA9FeaAT@cluster0-fr9h3.mongodb.net/wavedownloder-test?authSource=admin&replicaSet=Cluster0-shard-0&w=majority&readPreference=primary&appname=MongoDB%20Compass&retryWrites=true&ssl=true
 
 MONGODB_URI=mongodb+srv://dukstack:hHbAquNjSA9FeaAT@cluster0-fr9h3.mongodb.net/wavedownloder-test?retryWrites=true&w=majority
