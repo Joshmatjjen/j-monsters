@@ -13,3 +13,9 @@ REACT_APP_HIGHLIGHT_POST= "instagram/highlights?username="
 REACT_APP_SINGLE_HIGHLIGHT_POST= "instagram/highlight-item?id="
 REACT_APP_STORY_POST= "instagram/stories?username="
 REACT_APP_LIMIT= "&&limit="
+
+
+
+
+
+MONGODB_URI=mongodb+srv://dukstack:hHbAquNjSA9FeaAT@cluster0-fr9h3.mongodb.net/wavedownloder-test?retryWrites=true&w=majority
